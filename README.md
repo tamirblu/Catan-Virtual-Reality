@@ -23,7 +23,7 @@ Using the camera matrix and external photo factors, we employed homogeneous coor
 (As described below)
 
 
-<img src="https://github.com/tamirblu/Catan-Virtual-Reality/assets/67854317/0a36eb20-edfd-40c9-93a9-78d41f660d39" width="70%" height="70%">
+<img src="https://github.com/tamirblu/Catan-Virtual-Reality/assets/67854317/0a36eb20-edfd-40c9-93a9-78d41f660d39" width="100%" height="100%">
 
 # Final outcome
 

@@ -8,6 +8,7 @@ Initially, we began the process with 3D models of objects that represent the des
 
 # processing 
 After some coloring and sampling to a suitable number of edges, the 3D model of a sheep-
+
 ![image](https://github.com/tamirblu/Catan-Virtual-Reality/assets/67854317/ca40152b-36f3-482b-a10b-9775ddc0775d)
 
 # Projecting the resources

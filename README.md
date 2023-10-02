@@ -2,7 +2,7 @@
 (extanded vesion via the pdf file)
 
 This project starts with a passion for the famous board game Settlers of Catan, aka CATAN. This game already has a nice appearance and even 3d objects in it like small buildings and plastic mini-roads. In addition to that, our project tries to take the 5 resources (Lumber, Brick, etc) presented on paper cards in the game, and screen them on top of the player's table. Putting more life and realistic feeling to the game.
-![image](https://github.com/tamirblu/Catan-Virtual-Reality/assets/67854317/58bd12a6-48bd-4ae8-bf52-796564892801)width="100" height="100
+![image](https://github.com/tamirblu/Catan-Virtual-Reality/assets/67854317/58bd12a6-48bd-4ae8-bf52-796564892801)
 
 <img src="https://your-image-url.type](https://github.com/tamirblu/Catan-Virtual-Reality/assets/67854317/58bd12a6-48bd-4ae8-bf52-796564892801" width="100" height="100">
 

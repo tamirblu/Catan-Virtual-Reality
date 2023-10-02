@@ -17,4 +17,7 @@ https://drive.google.com/file/d/1mbgJAJkeMYrZS19cpM3WF4YTu1A6JZbH/view?usp=share
 or
 
 Run script:
-With the appropriate libraries, you can easily execute the ui script 
+With the appropriate libraries, you can easily execute the ui script
+
+or
+Run the full version using the - resources_processing

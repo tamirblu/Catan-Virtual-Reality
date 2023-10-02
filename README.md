@@ -19,7 +19,6 @@ Using the camera matrix and external photo factors, we employed homogeneous coor
 ![image](https://github.com/tamirblu/Catan-Virtual-Reality/assets/67854317/0a36eb20-edfd-40c9-93a9-78d41f660d39)
 
 # Final outcome
-![Figure_1](https://github.com/tamirblu/Catan-Virtual-Reality/assets/67854317/611c05b3-3fc7-4d8c-9d84-f6a07c68ce16)
 ![image](https://github.com/tamirblu/Catan-Virtual-Reality/assets/67854317/fc61766e-60f5-44c9-a970-3349999d2709)
 
 # User Friendly application

@@ -4,7 +4,7 @@ This project starts with a passion for the famous board game Settlers of Catan, 
 
 # 3D Models and Sampling 
 Initially, we began the process with 3D models of objects that represent the desired resources, in the process we searched the internet for most suited existing 3D models. Our goal was to represent these models in the form of a graph.
-![image](https://github.com/tamirblu/Catan-Virtual-Reality/assets/67854317/8053e0f9-f6b8-49dd-8994-f8dfddef4d70) ![image](https://github.com/tamirblu/Catan-Virtual-Reality/assets/67854317/806ab8ae-2fef-4ed7-a8db-72a36ee9be34)
+![image](https://github.com/tamirblu/Catan-Virtual-Reality/assets/67854317/806ab8ae-2fef-4ed7-a8db-72a36ee9be34)
 
 # processing 
 After some coloring and sampling to a suitable number of edges, the 3D model of a sheep-
